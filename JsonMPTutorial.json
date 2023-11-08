@@ -1,0 +1,37 @@
+{
+
+"UserInfo": [
+{
+  "UserId": "0",
+  "FirstName": "Burak",
+  "Surname": "Dabak",
+  "PlayerDesc": "TheDev",
+  "MaxGold": "1999",
+  "Team": "Red"
+},
+  {
+  "UserId": "1",
+  "FirstName": "Murat",
+  "Surname": "Tabak",
+  "PlayerDesc": "TheNPC",
+  "MaxGold": "1999",
+  "Team": "Red"
+},
+  {
+  "UserId": "2",
+  "FirstName": "Ozan",
+  "Surname": "Zoran",
+  "PlayerDesc": "TheDev",
+  "MaxGold": "1999",
+  "Team": "Red"
+},
+  {
+  "UserId": "3",
+  "FirstName": "Ali",
+  "Surname": "Dabak",
+  "PlayerDesc": "TheDev",
+  "MaxGold": "1999",
+  "Team": "Red"
+}
+]
+  }
